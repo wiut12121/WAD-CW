@@ -1,0 +1,105 @@
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\appsettings.json
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.exe
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.deps.json
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.runtimeconfig.json
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.runtimeconfig.dev.json
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.dll
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.pdb
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.Views.dll
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.Views.pdb
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.csproj.AssemblyReference.cache
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.AssemblyInfoInputs.cache
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.AssemblyInfo.cs
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.csproj.CoreCompileInputs.cache
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.MvcApplicationPartsAssemblyInfo.cache
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.RazorAssemblyInfo.cache
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.RazorAssemblyInfo.cs
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\staticwebassets\MagnumStore.StaticWebAssets.Manifest.cache
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\staticwebassets\MagnumStore.StaticWebAssets.Pack.cache
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MagnumStore.Microsoft.AspNetCore.StaticWebAssets.props
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MagnumStore.props
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MagnumStore.props
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MagnumStore.props
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.TagHelpers.input.cache
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.TagHelpers.output.cache
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.RazorCoreGenerate.cache
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.RazorTargetAssemblyInfo.cache
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.RazorTargetAssemblyInfo.cs
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.Views.pdb
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.dll
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.pdb
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.genruntimeconfig.cache
+E:\WIUT\Coursework 5BIS1\Object Oriented Programming\00012121.OOP.CW.Programming\OnlineTaxi\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.exe
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.deps.json
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.pdb
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.Views.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\MagnumStore.Views.pdb
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.RazorAssemblyInfo.cache
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.RazorAssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\staticwebassets\MagnumStore.StaticWebAssets.Manifest.cache
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\staticwebassets\MagnumStore.StaticWebAssets.Pack.cache
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.MagnumStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.MagnumStore.props
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.MagnumStore.props
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.MagnumStore.props
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.TagHelpers.input.cache
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.TagHelpers.output.cache
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.RazorCoreGenerate.cache
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.RazorTargetAssemblyInfo.cache
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.RazorTargetAssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.Views.pdb
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.csproj.CopyComplete
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.dll
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.pdb
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\MagnumStore.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Add.cshtml.g.cs
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\Users\User\OneDrive\Рабочий стол\MagnumStore\MagnumStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\View.cshtml.g.cs
