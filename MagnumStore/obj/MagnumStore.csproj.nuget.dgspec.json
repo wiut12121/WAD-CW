@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\MagnumStore\\MagnumStore\\MagnumStore.csproj": {}
+    "E:\\WIUT\\Coursework5BIS1\\Web\\MagnumStore\\MagnumStore\\MagnumStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive\\Рабочий стол\\MagnumStore\\MagnumStore\\MagnumStore.csproj": {
+    "E:\\WIUT\\Coursework5BIS1\\Web\\MagnumStore\\MagnumStore\\MagnumStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive\\Рабочий стол\\MagnumStore\\MagnumStore\\MagnumStore.csproj",
+        "projectUniqueName": "E:\\WIUT\\Coursework5BIS1\\Web\\MagnumStore\\MagnumStore\\MagnumStore.csproj",
         "projectName": "MagnumStore",
-        "projectPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\MagnumStore\\MagnumStore\\MagnumStore.csproj",
+        "projectPath": "E:\\WIUT\\Coursework5BIS1\\Web\\MagnumStore\\MagnumStore\\MagnumStore.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive\\Рабочий стол\\MagnumStore\\MagnumStore\\obj\\",
+        "outputPath": "E:\\WIUT\\Coursework5BIS1\\Web\\MagnumStore\\MagnumStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
